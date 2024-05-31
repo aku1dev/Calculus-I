@@ -43,7 +43,7 @@ Welcome to the **Calculus I Essentials** repository! This project is designed to
 To get started, simply clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/calculus-I-essentials.git
+git clone https://github.com/aku1dev/Calculus-I
 ```
 
 Explore the directories to find lecture notes, practice problems, and interactive tools. Check the `README.md` files in each directory for detailed instructions on how to use the resources.
